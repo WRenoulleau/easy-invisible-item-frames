@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_glow_item_frame": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:glow_item_frame"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_glow_item_frame"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "easy_invisible_item_frames:invisible_glow_item_frame"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item_frame": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:item_frame"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item_frame"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "easy_invisible_item_frames:invisible_item_frame"
+    ]
+  }
+}

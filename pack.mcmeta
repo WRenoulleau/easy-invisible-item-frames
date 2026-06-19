@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "author": "Shuukyo",
+    "min_format": [82.0],
+    "max_format": [107,1],
+    "description": [
+      "",
+      {"text":"Easy Invisible Item Frames","color":"aqua"},
+      {"text":"\n"},
+      {"text":"V.1.0 By Shuukyo","color":"gray"}
+    ]
+  }
+}
